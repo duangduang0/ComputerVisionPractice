@@ -1,0 +1,50 @@
+{
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.8.16",
+    "heartbeatAt": "2023-04-17T11:37:11.888386",
+    "startedAt": "2023-04-17T11:37:09.159704",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\MAC\\PycharmProjects\\LeNet-5-minist\\train.py",
+    "codePath": "PycharmProjects\\LeNet-5-minist\\train.py",
+    "git": {
+        "remote": "git@github.com:Y-joker/registeration.git",
+        "commit": null
+    },
+    "email": "x1597824116@163.com",
+    "root": "C:/Users/MAC",
+    "host": "DESKTOP-24TV94H",
+    "username": "MAC",
+    "executable": "C:\\ProgramData\\anaconda3\\envs\\pytorch\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2200.0,
+        "min": 0.0,
+        "max": 2201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2200.0,
+            "min": 0.0,
+            "max": 2201.0
+        }
+    ],
+    "disk": {
+        "total": 476.30858993530273,
+        "used": 279.99034881591797
+    },
+    "gpu": "NVIDIA GeForce GTX 1050",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1050",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 11.894195556640625
+    }
+}
